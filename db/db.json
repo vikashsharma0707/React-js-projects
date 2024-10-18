@@ -1,0 +1,13 @@
+{
+    "students":[
+        {
+            "name":"jay",
+            "rollno":121
+        },
+
+        {
+            "name":"ram",
+            "rollno":122
+        }
+    ]
+}
